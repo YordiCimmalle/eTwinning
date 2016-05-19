@@ -1,0 +1,137 @@
+
+body{
+background-image: url("Assets/background.png")
+background-repeat: no-repeat;
+background-size: cover;
+font-family: "Jens", sans-serif;
+
+
+}
+
+#nom{
+  font-family:fantasy;
+  font-size: 30px;
+  border: solid black;
+  background-color: #66c2ff;
+  position: absolute;
+}
+.position{
+   position: fixed;
+   text-align: center;
+   left: 54%;
+   top:3%;
+   margin-left: -500px;
+}
+
+.box{
+  background-color: rgba(187,236,19, 52);
+  padding:20px;
+  border-radius: 100px;
+}
+#cel{
+  padding:30px;
+}
+@font-face {
+  font-family: "Jens";
+  src: url(Scripts/Lobster-Regular.ttf) format("truetype");
+}
+#titel{
+  left: 35%;
+  top:2.5%;
+  font-size: 80px;
+  position: fixed;
+  font-family: "Jens", sans-serif;
+}
+
+
+button{
+  width:100px;
+  background-color: #66c2ff;
+  border:solid black;
+  border-radius:20px;
+  color:white;
+  position: inherit;
+}
+
+
+
+#belgie
+{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  max-width: 100%;
+  max-height: 100%;
+  margin: auto;
+  overflow: auto;
+  background-image: url("Assets/background.png")
+}
+
+#Anvers
+{
+  top:15%;
+  left:50%;
+}
+
+#Limbourg
+{
+  top:24%;
+  left:62%;
+}
+#FlandreOrientale
+{
+  top:19%;
+  left:38%;
+}
+#FlandreOccidentale
+{
+  top:20%;
+  left:27%;
+}
+#Bruxelles
+{
+  top:32%;
+  left:46%;
+}
+#Brabantwallon
+{
+  top:40%;
+  left:49%;
+}
+#Hainaut
+{
+  top:49%;
+  left:40%;
+}
+#Liege
+{
+  top:46%;
+  left:64%;
+}
+#Luxembourg
+{
+  top:70%;
+  left:64%;
+}
+#Namur
+{
+  top:54%;
+  left:55%;
+}
+#Brabantflamand
+{
+  top:28%;
+  left:52%;
+}
+
+
+
+
+
+#window
+{
+  position: relative;
+  margin:0;
+}
