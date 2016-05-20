@@ -47,7 +47,7 @@ var brussel = document.getElementById("Bruxelles");
 brussel.addEventListener("click", function() {
   swal({
 		title: "Bruxelles",
-		text: "Pour commencer… Bruxelles est une province en Belgique. Donc la Belgique n’est pas une province de Bruxelles. Beaucoup de gens pensent que Bruxelles est le pays mais le vrai pays est la Belgique, qui comprend une région francophone (au sud), néerlandophone (au nord) et allemande (près de la frontière allemande). Quelques curiosités populaires sont le Petit Julien (Manneke Pis en néerlandais) et l’Atomium.",
+		text: "Pour commencer… Bruxelles est une ville en Belgique. Donc la Belgique n’est pas une province de Bruxelles. Beaucoup de gens pensent que Bruxelles est le pays mais le vrai pays est la Belgique, qui comprend une région francophone (au sud), néerlandophone (au nord) et allemande (près de la frontière allemande). Quelques curiosités populaires sont le Petit Julien (Manneke Pis en néerlandais) et l’Atomium.",
 		imageUrl: "img/brussel.jpg"
 	});
 });
